@@ -1,0 +1,27 @@
+ody{
+    background-color: azure;
+}
+.navbar-brand{
+    font-size : x-large;
+    color: cyan; 
+    position: absolute;
+    left: auto;  
+}
+.nav-link{
+    font-size: medium;
+    color: cyan;
+    position: relative;
+    top: 18 px;   
+}
+div{
+    gap: 80px;
+}
+h1{
+    text-align: center;
+   
+}
+.icofont{
+    color: black;
+    position: relative;
+    top: 100px;
+}

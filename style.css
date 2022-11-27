@@ -1,0 +1,30 @@
+body{
+    background-color: azure;
+}
+.navbar-brand{
+    font-size : x-large;
+    color: cyan;   
+}
+.nav-link{
+    font-size: medium;
+    color: cyan;
+    position: relative;
+    top: 0px;   
+}
+.carrousel{
+    height: 65vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h1{
+    text-align: center; 
+}
+.icofont{
+    color: black;
+    position: relative;
+    top: 100px;
+}
