@@ -9,6 +9,7 @@ body{
     font-size: medium;
     color: cyan;
     position: relative;
+    right: auto;
     top: 0px;   
 }
 h1{

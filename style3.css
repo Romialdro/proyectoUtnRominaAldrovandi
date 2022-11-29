@@ -1,16 +1,18 @@
 body{
     background-color: azure;
+
 }
 .navbar-brand{
     font-size : x-large;
     color: cyan; 
-    position: absolute;
+    position: relative;
     left: auto;  
 }
 .nav-link{
     font-size: medium;
     color: cyan;
-    position: relative;
+    position: relative
+    right: auto;
     top: 15px;   
 }
 h1{
@@ -24,7 +26,10 @@ h1{
 .btn{
     background-color: grey;
     position: relative;
-}    
+} 
+.mb-3{
+    font-size: x-large;
+}   
 
 .icofont{
     color: black;
